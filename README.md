@@ -3,7 +3,6 @@
 **I'm a web developer passionate about both front and back-end technologies.**  :woman_technologist:
 
   - :computer: Next.js | React.js | TypeScript | JavaScript | Node.js | PostgreSQL | Jest | Puppeteer | CSS3
-  - :bulb: I'm currently working on [Draku - easy money management](https://github.com/Anastasia-ra/next-js-draku-easy-money-management) a full stack money management app.
   - :mailbox_with_mail:	 You can reach me on [Linkedin](https://www.linkedin.com/in/anastasia-rambaud/).
   - :european_castle:	I'm based in Vienna, Austria.
   
